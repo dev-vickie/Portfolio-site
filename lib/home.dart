@@ -59,9 +59,9 @@ class Home extends StatelessComponent {
             margin: EdgeInsets.symmetric(horizontal: 20.px),
           ),
           css('.profile').box(
-            height: 100.percent,
-            width: 100.percent,
-            radius: BorderRadius.circular(60.percent),
+            width: 400.px,
+            height: 400.px,
+            radius: BorderRadius.circular(200.px),
           )
         ]),
         css(
